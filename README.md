@@ -14,6 +14,9 @@ The dataset used for training the model is sourced from Kaggle. You can access t
 
 [HR Attrition data based on IBM attrition](https://www.kaggle.com/datasets/singhnproud77/hr-attrition-dataset/data)
 
+You can follow this link to see data visualitazion of the dataset:
+[Tableau Visualitazion](https://public.tableau.com/app/profile/bryant.andersson/viz/Book1_17086544651680/Dashboard1)
+
 ## Technologies Used
 
 - Python: The primary programming language for developing the classification model.
