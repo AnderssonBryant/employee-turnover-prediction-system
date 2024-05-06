@@ -22,6 +22,15 @@ You can follow this link to see data visualitazion of the dataset:
 - Python: The primary programming language for developing the classification model.
 - Sklearn: Utilize python library to use machine learning model.
 
+## Methodology
+
+- Business Understanding -> Understanding the project goals and requirements from a business perspective
+- Data Understanding -> Getting to know the data
+- Data Preparation -> Construct the data, data cleaning and data transformation
+- Modelling
+- Evaluation
+- Deployment
+  
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
